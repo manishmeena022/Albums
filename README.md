@@ -1,4 +1,4 @@
-# ALBUM MANAGER
+# ALBUM
 
 A simple React application for managing albums. It allows you to fetch and display albums from an API, add new albums, update existing ones, and delete albums. Please note that the add, update, and delete operations are dummy requests for demonstration purposes.
 
