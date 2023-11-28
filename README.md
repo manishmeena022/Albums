@@ -57,7 +57,7 @@ Follow these steps to run the Album Manager on your local machine:
    ```
 5. Access the App:
    ```
-   Open your web browser and navigate to http://localhost:3000 to access the Album Manager app.
+   Open your web browser and navigate to http://localhost:3000 to access the Album app.
    ```
 
 ## Acknowledgements
